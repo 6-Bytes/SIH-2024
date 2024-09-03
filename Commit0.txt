@@ -1,0 +1,2 @@
+This is the first commit to start the github repo 
+This project in simple term deals with providing farmers with diret access to the customers. Not involving 3rd party companies.
